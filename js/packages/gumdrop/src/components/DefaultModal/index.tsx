@@ -1,7 +1,7 @@
 import React from "react";
 import { Modal } from "antd";
 
-import "./index.css";
+import "./index.scss";
 
 export const DefaultModal = (props: any) => {
   const { children, bodyStyle, width, ...rest } = props;
