@@ -1,4 +1,4 @@
-import './App.css';
+import './App.scss';
 import { useMemo } from 'react';
 
 import Home from './Home';

@@ -14,7 +14,7 @@ import {
   Stack,
 } from "@mui/material";
 
-import "./App.css";
+import "./App.scss";
 import {
   useColorMode,
 } from "./contexts";
